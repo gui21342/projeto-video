@@ -1,0 +1,39 @@
+**ORGANIZADOR**
+- [ ]  perguntar termo de busca 
+- [ ]  perguntar pelo prefixo
+- [ ]  iniciar robo de texto
+- [ ] iniciar robo de imagens
+- [ ] iniciar robo de video
+- [ ] iniciar robo do youtube
+
+- [ ]***Text bot***
+
+- [ ] estrutura de dados
+- [ ] coletar conteudo de wikipedia
+- [ ] limpar conteudo
+- [ ] quebrar em sentenças 
+- [ ] pegar a interpretação do watson
+- [ ] adicionar tags
+- [ ] salvar estrutura de dados
+
+- [ ] ***Image bot***
+
+- [ ] Carregar a estrutura de dados
+- [ ] buscar imagens no google imagens
+- [ ] baixar as imagens 
+- [ ] salvar estrutura de dados
+
+
+
+- [ ] ***Video bot***
+
+- [ ] Preparar/redimensionar as imagens
+- [ ] Criar as sentenças com imagens
+- [ ] criar a thumbnail pro video
+- [ ] renderizar com after effects
+
+- [ ] ***Youtube bot***
+
+- [ ] Autenticar com OAuth 
+- [ ] upload do video
+- [ ] upload de **thumbnail**
